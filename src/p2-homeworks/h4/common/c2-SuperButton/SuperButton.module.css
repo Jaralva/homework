@@ -1,0 +1,32 @@
+.default {
+    color: cornflowerblue;
+}
+
+.default:hover {
+    background: cornflowerblue;
+    color: black;
+}
+
+.default:disabled {
+    color: lightslategrey;
+}
+
+.default:disabled:hover {
+    background: lightslategrey;
+    color: black;
+}
+
+.red {
+    color: red;
+}
+
+.red:hover {
+    background: red;
+    color: black;
+}
+
+button {
+    border: 3px solid;
+    border-radius: 10px;
+    background: white;
+}

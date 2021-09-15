@@ -1,0 +1,41 @@
+.someClass {
+
+}
+
+
+.error {
+    border: 1px solid red;
+}
+
+.not_error {
+    border: 1px solid cornflowerblue;
+}
+
+.hw3div {
+    background-color: cornflowerblue;
+}
+
+input {
+    margin: 10px ;
+    border-radius: 30px;
+}
+
+.span_error {
+    background-color: red;
+    border-radius: 30px;
+    color: white;
+    padding: 0px 10px;
+}
+
+.span_not_error {
+
+}
+
+.button {
+    margin: 0px 10px;
+    border-radius: 30px;
+}
+
+.span {
+    color: white;
+}

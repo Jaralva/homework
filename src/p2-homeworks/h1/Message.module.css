@@ -1,0 +1,40 @@
+.avatar {
+    border-radius: 50%;
+    border: solid aquamarine;
+    width: 40px;
+    height: 40px;
+
+}
+
+.parent {
+    background-color: black;
+    display: flex;
+    margin: 15px;
+    align-items: flex-end;
+    padding: 30px;
+}
+
+.child {
+    border-radius: 10px;
+    background-color: aquamarine;
+    padding: 10px;
+    max-width: 300px;
+    margin-left: 20px;
+}
+
+.message {
+    color: black;
+    font-size: 15px;
+    word-wrap: break-word;
+}
+
+.time {
+    color: black;
+    text-align: right;
+}
+
+.name{
+    color: black;
+    font-size: 15px;
+    color: black;
+}
