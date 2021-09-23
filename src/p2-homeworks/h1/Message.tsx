@@ -13,7 +13,11 @@ const Message = (props: TypeMessage) => {
 
     return (
         <div className={g.parent}>
+
             <img src={props.avatar} className={g.avatar}/>
+
+            <div className={g.angle}/>
+
             <div className={g.child}>
                 <div className={g.name}>{props.name}</div>
                 <div className={g.message}>{props.message}</div>
